@@ -2,7 +2,7 @@ package mapConcepts;
 
 import java.util.HashMap;
 
-public class HashMapExamples {
+public class HashMapExamples1 {
 
 	public static void main(String[] args)
 	{

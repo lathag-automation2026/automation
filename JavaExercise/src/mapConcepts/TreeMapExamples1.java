@@ -3,7 +3,7 @@ package mapConcepts;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
 
-public class TreeMapExamples {
+public class TreeMapExamples1 {
 
 	public static void main(String[] args)
 	{
