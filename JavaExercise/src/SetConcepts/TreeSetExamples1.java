@@ -2,7 +2,7 @@ package SetConcepts;
 
 import java.util.TreeSet;
 
-public class TreeSetExamples {
+public class TreeSetExamples1 {
 
 	public static void main(String[] args) {
 		
