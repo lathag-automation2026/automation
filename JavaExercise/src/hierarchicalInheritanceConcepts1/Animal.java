@@ -1,0 +1,10 @@
+package hierarchicalInheritanceConcepts1;
+
+public class Animal 
+{
+
+		 void sound()
+		 {
+		   System.out.println("Animals make sound");  
+		 } 
+}

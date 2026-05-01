@@ -3,7 +3,7 @@ package listConcepts;
 
 import java.util.ArrayList;
 
-public class ArrayLisExamples {
+public class ArrayLisExamples1 {
 
 	public static void main(String[] args) 
 	

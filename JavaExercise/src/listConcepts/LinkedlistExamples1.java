@@ -4,7 +4,7 @@ package listConcepts;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class LinkedlistExamples {
+public class LinkedlistExamples1 {
 
 
 		public static void main(String[] args) 
