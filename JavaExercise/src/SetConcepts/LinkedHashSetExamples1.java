@@ -2,7 +2,7 @@ package SetConcepts;
 
 import java.util.LinkedHashSet;
 
-public class LinkedHashSetExamples {
+public class LinkedHashSetExamples1 {
 
 	public static void main(String[] args) 
 			
