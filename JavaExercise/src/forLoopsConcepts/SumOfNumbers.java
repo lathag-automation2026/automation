@@ -16,3 +16,4 @@ public class SumOfNumbers
 	        System.out.println(sum);
 	    }
 }
+    
