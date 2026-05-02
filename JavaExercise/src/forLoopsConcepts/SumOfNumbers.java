@@ -3,7 +3,7 @@ package forLoopsConcepts;
 public class SumOfNumbers 
 {	
 	
-	    public static void main(String[] args) 
+    public static void main(String[] args) 
 	    {
 	        int n = 5;
 	        int sum = 0;
@@ -15,4 +15,4 @@ public class SumOfNumbers
 
 	        System.out.println(sum);
 	    }
-	}
+}
