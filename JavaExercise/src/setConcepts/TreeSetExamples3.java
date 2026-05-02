@@ -1,4 +1,4 @@
-package SetConcepts;
+package setConcepts;
 
 import java.util.TreeSet;
 
