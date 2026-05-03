@@ -1,10 +1,10 @@
-package constructorConcepts;
+package constructorConcepts1;
 
-public class ParameterizedConstructos 
+public class ParameterizedConstructosExample1 
 {
 	 int sid;
 	   String sname;
-	   ParameterizedConstructos(int id, String name)
+	   ParameterizedConstructosExample1(int id, String name)
 	     {
 	     sid = id;
 	     sname= name;
@@ -14,7 +14,7 @@ public class ParameterizedConstructos
 	        System.out.println(sid+" "+sname); 
 	     }
 	    public static void main(String[] args) {
-	    	ParameterizedConstructos s = new ParameterizedConstructos(100, "Smriti");
+	    	ParameterizedConstructosExample1 s = new ParameterizedConstructosExample1(100, "Smriti");
 	    s.display();
 	    }
 

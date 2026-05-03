@@ -4,7 +4,7 @@ public class PositiveOrNegativeOrZeros
 {
 	
 	 public static void main(String[] args) {
-	        int num = -77 ;
+	        int num = 88;
 	        if(num>0)
 	        {
 	            System.out.println("The number is positive");

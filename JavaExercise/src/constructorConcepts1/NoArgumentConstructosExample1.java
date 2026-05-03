@@ -1,10 +1,10 @@
-package constructorConcepts;
+package constructorConcepts1;
 
-public class NoArgumentConstructos 
+public class NoArgumentConstructosExample1 
 {
 	 int pid;
 	   String pname;
-	   NoArgumentConstructos()
+	   NoArgumentConstructosExample1()
 	     {
 	     pid = 100;
 	     pname= "Rukmani";
@@ -14,7 +14,7 @@ public class NoArgumentConstructos
 	        System.out.println(pid+" "+pname); 
 	     }
 	    public static void main(String[] args) {
-	    	NoArgumentConstructos p = new NoArgumentConstructos();
+	    	NoArgumentConstructosExample1 p = new NoArgumentConstructosExample1();
 	    p.display();
 	    }
 

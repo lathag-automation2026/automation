@@ -1,6 +1,6 @@
-package methodOverridingConcepts;
+package methodOverridingConcepts1;
 
-public class  methodOverriding
+public class  MethodOverriding
 
 
 {
