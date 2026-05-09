@@ -13,6 +13,7 @@ public class CheckGender
 	               case 'F':
 	               System.out.println("female");
 	               break;
+
 	               default:
 	               System.out.println("invalid gender");
 	       }

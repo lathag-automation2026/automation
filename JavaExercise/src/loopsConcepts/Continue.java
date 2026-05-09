@@ -1,4 +1,4 @@
-package forLoopsConcepts;
+package loopsConcepts;
 
 public class Continue {
 

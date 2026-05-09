@@ -1,10 +1,10 @@
 package conditionalStatementsConcepts;
 
-public class IfElseLadderExample
+public class IfElseLadderExample2
 
 {
 	    public static void main(String[] args) {
-	        int a = -6;
+	        int a = 6;
 
 	        if (a == 0) {
 	            System.out.println("Value of a is zero");
@@ -21,7 +21,7 @@ public class IfElseLadderExample
 	        } else if (a == 6) {
 	            System.out.println("Value of a is Six");
 	        } else {
-	            System.out.println("Value is negative or not matched");
+	            System.out.println("Value is  not matched");
 	        }
 	    }
 	}

@@ -1,6 +1,6 @@
 package conditionalStatementsConcepts;
 
-public class NestedIfExample 
+public class NestedIfExample1 
 
 {
 	

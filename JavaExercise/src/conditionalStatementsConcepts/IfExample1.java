@@ -1,18 +1,14 @@
 package conditionalStatementsConcepts;
 
-public class IfElseExample 
+public class IfExample1 
 {
-	
 	    public static void main(String[] args) {
-	        int number1 = 7;
+	        int number = 76;
 
-	        if (number1 % 2 == 0) {
+	        if (number % 2 == 0) {
 	            System.out.println("Even");
-	        } else {
-	            System.out.println("Odd");
 	        }
 	    }
 	}
-
 
 
