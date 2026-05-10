@@ -9,7 +9,7 @@ public class StartsEndsWithExample {
         boolean endsWithWorld = str.endsWith("World");
         
         System.out.println("Starts with 'Hello': " + startsWithHello); 
-        System.out.println("Ends with 'World!': " + endsWithWorld); 
+        System.out.println("Ends with 'World': " + endsWithWorld); 
     }
 }
 
