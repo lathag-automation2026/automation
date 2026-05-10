@@ -18,6 +18,8 @@ public class InputMismatchExceptionExample2 {
         } 
         catch (InputMismatchException e) {
             System.out.println("Invalid input! Please enter only numeric numbers.");
+            System.out.println(e.getMessage());
+
         }
     }
 }

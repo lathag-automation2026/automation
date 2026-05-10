@@ -22,6 +22,10 @@ public class ArrayIndexOutOfBoundsExceptionExample2
 	        } 
 	        catch (ArrayIndexOutOfBoundsException e) {
 	            System.out.println("Invalid position! Please enter between 0 and 4.");
+	        	System.out.println(e.getMessage());
+
+	            
 	        }
+
 	    }
 	}

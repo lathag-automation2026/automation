@@ -12,6 +12,8 @@ public class StringIndexOutOfBoundsExceptionExample2
 	        } 
 	        catch (StringIndexOutOfBoundsException e) {
 	            System.out.println("Invalid index! String length is " + name.length());
+	            System.out.println(e.getMessage());
+
 	        }
 	    }
 	}
