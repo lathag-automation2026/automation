@@ -1,6 +1,6 @@
 package arrayConcepts;
 
-public class ArrayExamples 
+public class ArrayExamples1 
 {
 
 	    public static void main(String[] args) {
